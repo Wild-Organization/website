@@ -2,10 +2,4 @@
 
 ## New lines of text
 
-adasdfafaf
-axbxcvbxcbxcbxb
-xcvbxcbvxcvb
-xcbxcbxcb
-xcvxcb
-x
-dsdfasdfasdf
+## Getting Started
